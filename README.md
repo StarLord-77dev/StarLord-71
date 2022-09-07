@@ -6,7 +6,7 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30"/> 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30"/> 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="30" height="30"/>
- 📜<h2><strongStatus: Intermediate level</h2>
+ 📜<h2>Status: Intermediate level</h2>
  
 ![image](https://user-images.githubusercontent.com/112039188/188994300-af23458b-eda2-4c7c-98e5-b705a5a555be.png)
 
