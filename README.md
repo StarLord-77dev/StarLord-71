@@ -7,7 +7,7 @@
 
 <h2><strong><em>✏️My name is StarLord_71.</em></strong></h2>
 
-  <h2><em><img width= "30px" height="30px" style="display: inline" src="https://user-images.githubusercontent.com/112039188/188991310-d740486e-10cd-49f3-83c4-3b65782261c2.png">I have been studying web development at Alura for a month now. </em> </h2>
+<h2><em><img width= "30px" height="30px" style="display: inline" src="https://user-images.githubusercontent.com/112039188/188991310-d740486e-10cd-49f3-83c4-3b65782261c2.png">I have been studying web development at Alura for a month now. </em> </h2>
 
 <h2> <em>🎯 I'm already at an intermediate level at: </em></h2>
 
