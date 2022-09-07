@@ -1,8 +1,9 @@
+
 <h1><strong>🙌Hello, welcome to my Github profile</strong></h1>
 <h2><strong><em>✏️My name is Leonardo Bazani and my nickname is StarLord_71.</em></strong></h2>
 
  <h2>My main programming languages are:<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="30" height="30"/></h2> 
- <h2>I have been studying web development at Alura for a month now. <img width= "30px" height="30px" style="display: inline" src="https://user-images.githubusercontent.com/112039188/188991310-d740486e-10cd-49f3-83c4-3b65782261c2.png"> </h2>
+ <h2> <img width= "30px" height="30px" style="display: inline" src="https://user-images.githubusercontent.com/112039188/188991310-d740486e-10cd-49f3-83c4-3b65782261c2.png">I have been studying web development at Alura for a month now.  </h2>
  
 
  
@@ -19,16 +20,3 @@
 
 ![Snake animation](https://github.com/LeonardoBazani/LeonardoBazani/blob/output/github-contribution-grid-snake.svg)
 <!--
-**LeonardoBazani/LeonardoBazani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--  I’m currently working on ...
--  I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
