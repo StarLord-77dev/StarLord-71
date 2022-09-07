@@ -1,7 +1,7 @@
 <h1><strong>🙌Hello, welcome to my Github profile</strong></h1>
 <h2><strong><em>✏️My name is Leonardo Bazani and my nickname is StarLord_71.</em></strong></h2>
 
- <img width= "40px" height="40px" src="https://user-images.githubusercontent.com/112039188/188991310-d740486e-10cd-49f3-83c4-3b65782261c2.png"> <h2 font-size="10px">I have been studying web development at Alura fro a month now.</h2>
+ <img width= "40px" height="40px" src="https://user-images.githubusercontent.com/112039188/188991310-d740486e-10cd-49f3-83c4-3b65782261c2.png"> <h2 style="font-size='10px'">I have been studying web development at Alura fro a month now.</h2>
  <h2>My main programming languages are:</h2> 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> 
