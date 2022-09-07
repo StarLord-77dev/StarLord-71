@@ -12,11 +12,11 @@
  
 ![image](https://user-images.githubusercontent.com/112039188/188994300-af23458b-eda2-4c7c-98e5-b705a5a555be.png)
 
+![Snake animation](https://github.com/LeonardoBazani/LeonardoBazani/blob/output/github-contribution-grid-snake.svg)
+
 <div>
 <a width="100%" href="https://github.com/seu-usuário-aqui">
 <img width="100% "height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoBazani&layout=compact&langs_count=7&theme=dracula"/>
 <img width="100%" height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoBazani&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-![Snake animation](https://github.com/LeonardoBazani/LeonardoBazani/blob/output/github-contribution-grid-snake.svg)
-<!--
