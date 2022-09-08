@@ -1,8 +1,8 @@
 ![image](https://user-images.githubusercontent.com/112039188/188994300-af23458b-eda2-4c7c-98e5-b705a5a555be.png)
 
 <a  href="https://github.com/StarLord-71">
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=StarLord-71&show_icons=true&title_color=150050&text_color=3F0071&icon_color=F0A500&border_color=1B1A17&bg_color=EFF0B6&include_all_commits=true&count_private=true"/>
-
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=StarLord-71&show_icons=true&title_color=&text_color=31087B&icon_color=FAF3E3&border_color=1B1A17&bg_color=FF9F29&include_all_commits=true&count_private=true"/>
+035397
 <h1><strong><em>🙌Hello, welcome to my Github profile!</em></strong></h1>
 
 <h2><strong><em>✏️My name is StarLord_71.</em></strong></h2>
@@ -11,7 +11,7 @@
 
 <h2> <em>🎯 I'm already at an intermediate level at: </em></h2>
 
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StarLord-71&layout=compact&langs_count=7&title_color=150050&text_color=3F0071&icon_color=F0A500&border_color=1B1A17&bg_color=EFF0B6"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StarLord-71&layout=compact&langs_count=7&ttitle_color=&text_color=31087B&icon_color=FAF3E3&border_color=1B1A17&bg_color=FF9F29"/>
 
 ![Snake animation](https://github.com/LeonardoBazani/LeonardoBazani/blob/output/github-contribution-grid-snake.svg)
 
