@@ -2,7 +2,7 @@
 
 <a  href="https://github.com/StarLord-71">
 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=StarLord-71&show_icons=true&title_color=&text_color=31087B&icon_color=FAF3E3&border_color=1B1A17&bg_color=FF9F29&include_all_commits=true&count_private=true"/>
-035397
+
 <h1><strong><em>🙌Hello, welcome to my Github profile!</em></strong></h1>
 
 <h2><strong><em>✏️My name is StarLord_71.</em></strong></h2>
